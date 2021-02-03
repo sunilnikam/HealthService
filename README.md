@@ -13,3 +13,6 @@ ClaimsController:                           The controller  is derived from ApiC
                                                                  
 \HealthService\Model\:                      This folder contains the data model related to database (CSV columns here), that will ultimatly will be mapped to VM via ClaimMapper                                               and MemberMapper
 \HealthService\App_Data:                    Contains the csv files
+
+
+** The other files and structure is present which may not be required, but kept AS IT IS **
